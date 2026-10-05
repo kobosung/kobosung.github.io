@@ -9,9 +9,9 @@ date: 2025-12-08
 ---
 Welcome! I am a Ph.D. candidate in the Department of Convergence Engineering for Artificial Intelligence and the Department of Convergence Major for Intelligent Drones, Sejong University, [iNCSL](https://sites.google.com/view/incsl/home){: style="text-decoration: none;"} (Advisor: Prof. Jin Woo Song).
 ## 🎯 Research interests
-- Sensor fusion, navigation systems, fault tolerant systems.
-- NN-assisted machine learning, time series data forecasting.
-- Explainable artificial intelligence, continual learning.
+- Sensor fusion and navigation systems
+- On-device AI, continual learning, incremental learning
+- Fault tolerant systems
 
 ## 📰 Publications
 ### International
